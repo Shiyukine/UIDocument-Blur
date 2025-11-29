@@ -6,6 +6,10 @@ A performant, easy-to-use backdrop blur effect for Unity UI Toolkit. Simply add 
 ![URP](https://img.shields.io/badge/URP-17.0.3+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+| Example: Multiple Blur Panels | Example: Pause Menu Blur |
+|:----------------------------:|:------------------------:|
+| ![Multiple blur panels example](Images/readme1.png) | ![Pause menu blur example](Images/readme2.png) |
+
 ## Features
 
 - **Easy to use** - Just add `blur` class to any UXML element
